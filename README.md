@@ -27,4 +27,5 @@ This License Plate Matcher can be employed in various applications, including:
   -![My Image](images/7.png)
   -![My Image](images/8.png)
   -![My Image](images/9.png)
+  -![My Image](images/10.png)
 
