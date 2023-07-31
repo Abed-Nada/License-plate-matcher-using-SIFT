@@ -18,14 +18,15 @@ This License Plate Matcher can be employed in various applications, including:
 - Vehicle Tracking: To track specific vehicles for security and logistics purposes.
 
 ## GUI
-  -![My Image](images/1.png)
-  -![My Image](images/2.png)
-  -![My Image](images/3.png)
-  -![My Image](images/4.png)
-  -![My Image](images/5.png)
-  -![My Image](images/6.png)
-  -![My Image](images/7.png)
-  -![My Image](images/8.png)
-  -![My Image](images/9.png)
-  -![My Image](images/10.png)
-
+<p align="center">
+  <img src="images/1.png">
+  <img src="images/2.png">
+  <img src="images/3.png">
+  <img src="images/4.png">
+  <img src="images/5.png">
+  <img src="images/6.png">
+  <img src="images/7.png">
+  <img src="images/8.png">
+  <img src="images/9.png">
+  <img src="images/10.png">
+</p>
