@@ -13,7 +13,7 @@ Our system implements a License Plate Matcher using the Scale-Invariant Feature 
 
 This License Plate Matcher can be employed in various applications, including:
 
-- Surveillance Systems: To identify vehicles and track their movements in real-time.
+- Surveillance Systems: To identify vehicles and track their movements.
 
 - Vehicle Tracking: To track specific vehicles for security and logistics purposes.
 
