@@ -31,7 +31,7 @@ This License Plate Matcher can be employed in various applications, including:
   <img src="images/10.png">
 </p>
 
-## Contributors
+## Collaborators
 
 - [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa)
 - [@RB-Younes](https://github.com/RB-Younes)
